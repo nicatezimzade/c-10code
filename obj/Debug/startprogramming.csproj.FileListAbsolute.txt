@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\codenicat\startprogramming\startprogramming\bin\Debug\startprogramming.exe.config
+C:\Users\HP\source\repos\codenicat\startprogramming\startprogramming\bin\Debug\startprogramming.exe
+C:\Users\HP\source\repos\codenicat\startprogramming\startprogramming\bin\Debug\startprogramming.pdb
+C:\Users\HP\source\repos\codenicat\startprogramming\startprogramming\obj\Debug\startprogramming.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\codenicat\startprogramming\startprogramming\obj\Debug\startprogramming.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\codenicat\startprogramming\startprogramming\obj\Debug\startprogramming.exe
+C:\Users\HP\source\repos\codenicat\startprogramming\startprogramming\obj\Debug\startprogramming.pdb
